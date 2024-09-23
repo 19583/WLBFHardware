@@ -1,7 +1,7 @@
 <!--
  * @Date: 2024-09-03 09:58:07
  * @LastEditors: Towers
- * @LastEditTime: 2024-09-23 16:12:58
+ * @LastEditTime: 2024-09-23 17:04:06
 -->
 
 
@@ -31,4 +31,4 @@ qq:1946459294
 
 ### 版权说明
 
-该项目签署了GUN 授权许可，详情请参阅 [LICENSE.txt](https://github.com/shaojintian/Best_README_template/blob/master/LICENSE.txt)
+该项目签署了GUN 授权许可，详情请参阅 [LICENSE.txt](https://github.com/19583/WLBFHardware/blob/main/LICENSE)
