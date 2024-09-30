@@ -1,7 +1,7 @@
 <!--
  * @Date: 2024-09-03 09:58:07
  * @LastEditors: Towers
- * @LastEditTime: 2024-09-23 17:04:06
+ * @LastEditTime: 2024-09-30 22:44:21
 -->
 
 
@@ -15,9 +15,19 @@
 
 ```
 WLBFHardware 
-├── LICENSE.txt
-├── README.md
-├── SCHpdf
+├── 01_DRV8701Driver        #双电机驱动
+│  ├── 01_DRV8701Driver.pdf #工程原理图
+│  ├── ASM                  #组装/贴片坐标
+│  ├── BOM                  #物料表    
+│  ├── CAM                  #Gerber文件
+│  ├── PRJ                  #项目文件，完善中······
+├── 02_PowerPart            #电源部分
+├── 03_SigPart              #信号部分
+├── 04_Trans                #编码器、摄像头一体转接板
+├── 05_LightDriver          #灯板驱动
+├── 06_B&RLight             #红绿双色灯板
+├── LICENSE                 #开源许可
+├── Readme.md
 
 ```
 
