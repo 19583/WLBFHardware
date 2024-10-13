@@ -1,7 +1,7 @@
 <!--
  * @Date: 2024-09-03 09:58:07
  * @LastEditors: Towers
- * @LastEditTime: 2024-10-13 19:51:23
+ * @LastEditTime: 2024-10-13 19:57:09
 -->
 
 
@@ -23,7 +23,7 @@ WLBFHardware
 │  ├── PRJ                  #项目文件
 ├── 02_PowerPart            #电源部分
 ├── 03_SigPart              #信号部分
-├── 04_Trans                #编码器、摄像头一体转接板
+├── 04_InterfacePart        #编码器、摄像头一体转接板
 ├── 05_LightDriver          #灯板驱动
 ├── 06_B&RLight             #红蓝双色灯板
 ├── LICENSE                 #开源许可
